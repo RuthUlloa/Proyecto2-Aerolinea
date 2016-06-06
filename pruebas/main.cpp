@@ -195,10 +195,7 @@ int main()
 
        cout << "Opcion a elegir: ";
        cin >> opcion;
-       if (!cin){
-        cin.clear(); // Borrar la entrada fallida
-        opcion = 4;
-        }
+
        switch(opcion){
        case 1:
            crearGrafoDirigido();
