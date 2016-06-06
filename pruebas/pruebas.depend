@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1464471478 source:c:\users\ruth\documents\pruebas\main.cpp
+	<iostream>
+	"MatrizAdyacencia.h"
+
+1464472204 c:\users\ruth\documents\pruebas\include\matrizadyacencia.h
+	"Vertice.h"
+	<iostream>
+
+1464469193 c:\users\ruth\documents\pruebas\include\vertice.h
+	<stdexcept>
+
+1464637092 source:c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\pruebas\pruebas\main.cpp
+	<iostream>
+	"include\MatrizAdyacencia.h"
+
+1464640588 c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\pruebas\pruebas\include\matrizadyacencia.h
+	"Vertice.h"
+	<iostream>
+
+1464469193 c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\pruebas\pruebas\include\vertice.h
+	<stdexcept>
+
+1465158020 source:c:\users\ruth\desktop\pruebas\pruebas\main.cpp
+	<iostream>
+	"include\MatrizAdyacencia.h"
+	<stdlib.h>
+
+1465117157 c:\users\ruth\desktop\pruebas\pruebas\include\matrizadyacencia.h
+	"Vertice.h"
+	<iostream>
+	<algorithm>
+	<stdio.h>
+
+1464706672 c:\users\ruth\desktop\pruebas\pruebas\include\vertice.h
+	<stdexcept>
+
