@@ -35,3 +35,17 @@
 1464706672 c:\users\ruth\desktop\pruebas\pruebas\include\vertice.h
 	<stdexcept>
 
+1465167493 source:c:\users\ruth\proyecto2-aerolineas\pruebas\main.cpp
+	<iostream>
+	"include\MatrizAdyacencia.h"
+	<stdlib.h>
+
+1465117157 c:\users\ruth\proyecto2-aerolineas\pruebas\include\matrizadyacencia.h
+	"Vertice.h"
+	<iostream>
+	<algorithm>
+	<stdio.h>
+
+1464706672 c:\users\ruth\proyecto2-aerolineas\pruebas\include\vertice.h
+	<stdexcept>
+
