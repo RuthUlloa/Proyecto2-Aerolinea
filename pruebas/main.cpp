@@ -183,9 +183,8 @@ crearGrafoNoDirigido(){
 
 int main()
 {
-    //mas pruebas :)
    int opcion = 4;
-   //Menu:
+
    while(opcion == 4){
        cout << endl;
        cout << "|---------- Aerolinea ---------|" << endl;
